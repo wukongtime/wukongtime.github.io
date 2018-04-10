@@ -1,0 +1,5 @@
+[{
+    "name": "youlan cli",
+    "template": "wukongtime/youlan-vue-app",
+    "description": "create an APP by youlanad"
+}]

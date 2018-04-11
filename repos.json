@@ -1,5 +1,5 @@
 [{
-    "name": "youlan cli",
+    "name": "webpack",
     "template": "wukongtime/templates-webpack",
     "description": "create an APP by youlanad"
 }]

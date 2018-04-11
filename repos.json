@@ -1,5 +1,5 @@
 [{
     "name": "webpack",
     "template": "wukongtime/templates-webpack",
-    "description": "create an APP by youlanad"
+    "description": "create an APP/Web by youlanad"
 }]
